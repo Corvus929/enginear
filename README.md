@@ -3,7 +3,7 @@
 
 This application aims to help connect businesses which have any type of computer engineering needs with engineers looking for work. This is a great way for
 
-![Screenshot 2023-03-24 062608](https://user-images.githubusercontent.com/123399341/227534965-cea013a8-a75f-451b-86ec-f02c1fffab4a.png)
+![Screenshot 2023-03-24 063409](https://user-images.githubusercontent.com/123399341/227535342-3fa6b0f8-9849-4619-8b34-3248bfe6a302.png)
 
 ![Screenshot 2023-03-24 062951](https://user-images.githubusercontent.com/123399341/227535025-215d0dca-e46e-4a45-88aa-93ac5cdb064f.png)
 
