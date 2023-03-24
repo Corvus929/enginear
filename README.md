@@ -1,5 +1,5 @@
 # enginear
- Helping developers get connected with local or remote businesses to contract software engineering help.
+ Helping developers get connected with local or remote businesses to contract software engineering help. https://enginear.herokuapp.com/
 
 This application aims to help connect businesses which have any type of computer engineering needs with engineers looking for work. This is a great way for
 
